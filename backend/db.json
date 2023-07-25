@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Regras foram feitas para serem quebradas. Igual prédios. Ou pessoas!",
+      "autoria": "jinx",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 2,
+      "conteudo": "Não há preço alto demais, nem maldade cruel demais. Por ela, eu. Farei. De tudo!",
+      "autoria": "Viego",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conteudo": "Dizem que odeiam violência, mas todo mundo pára pra assistir…",
+      "autoria": "Sett",
+      "modelo": "modelo1"
+    }
+  ]
+}
