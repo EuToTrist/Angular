@@ -2,21 +2,122 @@
   "pensamentos": [
     {
       "id": 1,
-      "conteudo": "Regras foram feitas para serem quebradas. Igual prédios. Ou pessoas!",
-      "autoria": "jinx",
-      "modelo": "modelo3"
+      "conteudo": "\"Minha missão é destruir até a esperança...\"  ",
+      "autoria": "Aatrox",
+      "modelo": "modelo1",
+      "favorito": true
     },
     {
       "id": 2,
-      "conteudo": "Não há preço alto demais, nem maldade cruel demais. Por ela, eu. Farei. De tudo!",
-      "autoria": "Viego",
-      "modelo": "modelo2"
+      "conteudo": "As emoções humanas podem ser mais voláteis até do que a magia mais poderosa.",
+      "autoria": "Ahri",
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
-      "conteudo": "Dizem que odeiam violência, mas todo mundo pára pra assistir…",
-      "autoria": "Sett",
-      "modelo": "modelo1"
+      "conteudo": "Ter cara de perigoso e ser perigoso são coisas diferentes.",
+      "autoria": "Akali",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "conteudo": "Nem tudo acontece por um motivo. Algumas coisas devem ser corrigidas.",
+      "autoria": "Akshan",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 4
+    },
+    {
+      "conteudo": "Nada pode me impedir!",
+      "autoria": "Alistar",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 5
+    },
+    {
+      "conteudo": "A solidão pode ser mais solitária do que a morte.",
+      "autoria": "Amumu",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 6
+    },
+    {
+      "id": 7,
+      "conteudo": "Eu sou a fúria da nevasca, a ferroada do vento e o frio do gelo. Eu sou Freljord.",
+      "autoria": "Anivia",
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "conteudo": "Eu nunca brinco com fósforos.",
+      "autoria": "Annie",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 8
+    },
+    {
+      "conteudo": "Nossa fé se prova verdadeira cada vez que a negamos.",
+      "autoria": "Aphelios",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 9
+    },
+    {
+      "conteudo": "Uma tribo, um povo, uma Freljord.",
+      "autoria": "Ashe",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 10
+    },
+    {
+      "conteudo": "Temam. Adorem. Maravilhem-se. Todas são respostas apropriadas",
+      "autoria": "Aurelion Sol",
+      "modelo": "modelo3",
+      "favorito": true,
+      "id": 11
+    },
+    {
+      "conteudo": "Shurima foi outrora a glória de Runeterra. E assim eu a farei de novo",
+      "autoria": "Azir",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 12
+    },
+    {
+      "conteudo": "O tilintar de seus passos são os ecos da mudança.",
+      "autoria": "Bardo",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 13
+    },
+    {
+      "conteudo": "Este mundo não será esquecido. Eu o substituirei, como cria que devora criador.",
+      "autoria": "Bel'Veth",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 14
+    },
+    {
+      "conteudo": "UMA ÚNICA ENGRENAGEM EM MOVIMENTO PODE FAZER TODA A DIFERENÇA.",
+      "autoria": "Blitzcrank",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 15
+    },
+    {
+      "conteudo": "Este lugar vai queimar, não pelas cinzas que voam ou o sopro do vento, mas pela vingança feita com minhas mãos.",
+      "autoria": "Brand",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 16
+    },
+    {
+      "conteudo": "Hoje, lutamos como inimigos. Amanhã, podemos lutar como irmãos.",
+      "autoria": "Braum",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 17
     }
   ]
 }
